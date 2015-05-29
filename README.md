@@ -16,7 +16,7 @@ This bash script is to change package name of Android.
 
 ## Usage
 
-    $ cd <Android Root Directory>
+    $ cd <Android Root Directory>  
     $ bash ChangePackage.sh <Source Package Name> <Destination Package Name>
 
 ## Author
