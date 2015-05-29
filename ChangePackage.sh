@@ -1,5 +1,13 @@
 #!/bin/bash
 
+##
+# ChangePackage.sh
+# Change Package for Android
+#
+# @author kuroneko
+# @copyright 2015 kuroneko. All rights reserved
+##
+
 readonly SOURCE_DIRECTORY='src'
 readonly FIXED_CHANGE_FILES=( "AndroidManifest.xml" )
 
